@@ -1,1 +1,8 @@
 Notebooks/__pycache__/us_state_abbrev.cpython-38.pyc
+Notebooks/catboost_info/catboost_training.json
+Notebooks/catboost_info/learn_error.tsv
+Notebooks/catboost_info/time_left.tsv
+Notebooks/catboost_info/learn/events.out.tfevents
+Notebooks/logs.log
+Data/.~lock.Table_10_Offenses_Known_to_Law_Enforcement_by_State_by_Metropolitan_and_Nonmetropolitan_Counties_2013.xls#
+.vscode/PythonImportHelper-v2-Completion.json
